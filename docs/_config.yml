@@ -6,10 +6,11 @@ show_downloads: false
 
 minima:
 #  date_format: "%b %-d, %Y"
+  skin: dark
 
   # generate social links in footer
   social_links:
     twitter: mdougherty
     github:  doughertym
-    youtube: c/MikeDougherty
+    youtube: MikeDougherty
 
