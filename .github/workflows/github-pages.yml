@@ -3,6 +3,9 @@ name: GitHub Pages Deployment
 on:
   push
 
+env:
+  JEKYLL_DEBUG: true
+
 jobs:
   jekyll:
     runs-on: ubuntu-16.04
