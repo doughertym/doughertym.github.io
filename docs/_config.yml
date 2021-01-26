@@ -1,4 +1,5 @@
-theme: minima
+theme: jekyll-text-theme
+
 title: Mike Dougherty
 description: Mike Dougherty's personal site/blog/journal
 show_downloads: false
