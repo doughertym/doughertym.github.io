@@ -1,4 +1,4 @@
-theme: jekyll-text-theme
+theme: minima
 
 title: Mike Dougherty
 description: Mike Dougherty's personal site/blog/journal
@@ -11,5 +11,5 @@ minima:
   social_links:
     twitter: mdougherty
     github:  doughertym
-    youtube: MikeDougherty
+    youtube: c/MikeDougherty
 
