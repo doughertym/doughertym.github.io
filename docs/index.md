@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+---
+layout: home
+---
+
+## Welcome to Mike Dougherty's Site
 
 You can use the [editor on GitHub](https://github.com/doughertym/doughertym.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 

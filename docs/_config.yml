@@ -1,16 +1,26 @@
-theme: minimal-mistakes-jekyll
 
 title: Mike Dougherty
 description: Mike Dougherty's personal site/blog/journal
+
 show_downloads: false
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-minima:
-#  date_format: "%b %-d, %Y"
-  skin: dark
+markdown: kramdown
+plugins:
+  - jekyll-feed
 
-  # generate social links in footer
-  social_links:
-    twitter: mdougherty
-    github:  doughertym
-    youtube: MikeDougherty
-
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: https://twitter.com/mdougherty
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/doughertym
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      url: https://bitbucket.org/mikedougherty/
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/MikeDougherty
