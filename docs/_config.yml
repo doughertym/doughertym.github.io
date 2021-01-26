@@ -1,5 +1,14 @@
-theme: jekyll-theme-dinky
+theme: minima
 title: Mike Dougherty
 description: Mike Dougherty's personal site/blog/journal
 show_downloads: false
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: mdougherty
+    github:  doughertym
+    youtube: MikeDougherty
 
