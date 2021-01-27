@@ -10,6 +10,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+excerpt_separator: "\n\n"
+
 footer:
   links:
     - label: "Twitter"
