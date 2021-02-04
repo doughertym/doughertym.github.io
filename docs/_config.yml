@@ -12,6 +12,8 @@ plugins:
 
 excerpt_separator: "\n\n"
 
+include: ["_pages", "downloads"]
+
 footer:
   links:
     - label: "Twitter"
