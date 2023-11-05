@@ -15,7 +15,7 @@ Code Whisper & Remodeler
 
 ## Summary
 
-Mike is a Lead Code Whisperer at [Corgibytes](https://corgibytes.com) and has over 20 years of experience in software engineering and consulting and has led numerous large-scale and multi-year projects in a wide variety of technology stacks and cloud-based infrastructure. He enjoys working collaboratively with teams to solve complex problems, whether they are related to stabilizing and refactoring legacy code, re-architecting application components, or finding better ways to test, build and deploy with modern tooling.
+Mike is currently a Lead Code Whisperer at [Corgibytes](https://corgibytes.com) and has almost 30 years of experience in software engineering and consulting and has led numerous large-scale and multi-year projects in a wide variety of technology stacks and cloud-based infrastructure.  He enjoys working collaboratively with teams to solve complex problems, whether they are related to stabilizing and refactoring legacy code, re-architecting application components, or finding better ways to test, build and deploy with modern tooling.
 
 ## Experience
 
@@ -24,7 +24,7 @@ _[Corgibytes](https://corgibytes.com), Richmond, VA_
 _May 2019 - Present_  
 
 * As a member of the team working on Shelterluv’s Drupal 7 based application, Mike helped modernize, detangle and apply the Strangler Pattern to prepare them for rapid development and deployment as they target a Macroservice Architecture for the future of the application.
-* As a member of the team working to help Capital One Financial (COF) modernize their Java and Scala microservices to reduce code complexity and duplication and migrating to new CI/CD pipelines and code analysis tools and requirements.
+* As a member of the team working to help Capital One Financial (COF) modernize their Java and Scala microservices to reduce code complexity and duplication and migrate to new CI/CD pipelines and code analysis tools and requirements.
 
 **Senior Consultant / Architect**    
 _[Three Dev, LLC](http://threedev.io), San Diego, CA_  
