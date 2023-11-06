@@ -1,14 +1,20 @@
 name: GitHub Pages Deployment
 
 on:
-  push
+  push:
+    branches: [ master, main ]
+  pull_request:
+    types: [opened, synchronize, reopened]
+  schedule:
+    - cron: '05 00 * * *'
+  workflow_dispatch:
 
 env:
   JEKYLL_DEBUG: true
 
 jobs:
   jekyll:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
@@ -24,4 +30,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: 'docs'
+          jekyll_build_options: '--drafts'
           target_branch: 'gh-pages'
