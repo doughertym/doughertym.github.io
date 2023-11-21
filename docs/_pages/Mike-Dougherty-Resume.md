@@ -96,11 +96,11 @@ _1995 - 1999_
 
 ## Skills
 
-**Languages/Markup**: Java EE, Groovy, PHP, HTML5, CSS, Objective-C, XML, XSL  
-**Data/ETL**: MySQL, Oracle, PostgreSQL, NoSQL (i.e. MongoDB, Datastore/Firestore, etc)  
-**Infrastructure/Cloud/DevOps**: GCP, AWS, Jenkins, BitBucket Pipelines, Linux, macOS, Unix  
-**Frameworks**: JPA/Hibernate, JSF/JSP, Spring, Struts, Laravel, CodeIgniter, GWT, Android, iOS  
-**Web Services**: REST, SAML, SOAP, XMLRPC, OAuth  
+**Languages/Markup**: Java EE, PHP, Solidity, Javascript/Typescript, Objective-C, XML, XSL  
+**Data/ETL**: MySQL, PostgreSQL, Oracle, NoSQL (i.e. MongoDB, Datastore/Firestore, etc)  
+**Infrastructure/Cloud/DevOps**: GCP, AWS, GitHub Actions, BitBucket Pipelines, Jenkins, Linux, macOS, Unix  
+**Frameworks**: JPA/Hibernate, JSF/JSP, Spring, Struts, Laravel, Foundry, Android, iOS  
+**Web Services**: REST, gRPC, SAML, SOAP, XMLRPC, OAuth  
 **SDLC**: Agile, SCRUM, Kanban, TDD, BDD, Jira, Trello  
 
 ## Education
