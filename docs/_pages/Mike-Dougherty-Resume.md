@@ -10,7 +10,7 @@ Code Whisper & Remodeler
 ## Contact Info
 
 * Phone: 8xx.xxx.xx35 
-* Email: m***d@***.io
+* Email: m\*\*\*d@\*\*\*.io
 * LinkedIn: [https://www.linkedin.com/in/mikedougherty](https://www.linkedin.com/in/mikedougherty)
 
 ## Summary
