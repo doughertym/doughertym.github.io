@@ -9,8 +9,8 @@ Code Whisper & Remodeler
 
 ## Contact Info
 
-* Phone: [858.232.3635](tel:+18582323635) 
-* Email: [miked@threedev.io](mailto:miked@threedev.io)
+* Phone: 8xx.xxx.xx35 
+* Email: m***d@***.io
 * LinkedIn: [https://www.linkedin.com/in/mikedougherty](https://www.linkedin.com/in/mikedougherty)
 
 ## Summary
